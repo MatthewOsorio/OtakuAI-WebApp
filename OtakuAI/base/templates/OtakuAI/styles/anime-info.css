@@ -1,0 +1,16 @@
+.content-container{
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+}
+
+.genres{
+    background-color: green;
+}
+
+.current-anime {
+    background-color: blue;
+}
+
+.most-popular{
+    background-color: red;
+}
